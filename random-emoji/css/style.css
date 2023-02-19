@@ -36,6 +36,7 @@ h2 {
 
 .emoji-name{
   font-weight: 600;
-  color: darkblue;
+  color: rgb(69, 68, 68);
   font-size: 20px;
+  text-transform: capitalize;
 }
