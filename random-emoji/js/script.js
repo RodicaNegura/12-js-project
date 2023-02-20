@@ -16,7 +16,7 @@ async function getEmoji() {
       emojiCode: data[i].unicodeName,
     });
   }
-}
+};
 
 getEmoji();
 
